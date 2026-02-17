@@ -70,6 +70,6 @@ Computer Science graduate focusing on Machine Learning, Generative AI, MLOps, an
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirzayasirabdullahbaig07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hamzamalik45&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
